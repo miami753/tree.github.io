@@ -13,7 +13,7 @@ p {
 
 .navbar-nav .nav-link.active {
 
-    color: rgb(235, 229, 229);
+    color: aquamarine;
 }
 .navbar-brand img {
     width: 50px;
@@ -29,7 +29,7 @@ p {
 
 .card{
 
-    color: rgb(139, 240, 206);
+    color: aquamarine;
     background: linear-gradient(180deg, #000000 0%, #35F32D 100%);
     display:grid;
 }
