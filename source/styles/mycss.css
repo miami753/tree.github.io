@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css?family=Michroma&display=swap');
 body{
     font-family: Michroma, serif;
-    background: linear-gradient(90deg, #9f9f9a 0%, #304CD6 100%);
+    background: linear-gradient(270deg, #000000 0%, #35F32D 100%);
 }
 p {
     color: aquamarine;
@@ -24,13 +24,13 @@ p {
 }
 .sidebar{
     color: aquamarine;
-    background: linear-gradient(270deg, #9f9f9a 0%, #304CD6 100%);
+    background: linear-gradient(90deg, #000000 0%, #35F32D 100%);
 }
 
 .card{
 
     color: rgb(139, 240, 206);
-    background: linear-gradient(90deg, #9f9f9a 0%, #8e92a7 100%);
+    background: linear-gradient(180deg, #000000 0%, #35F32D 100%);
     display:grid;
 }
 
@@ -46,7 +46,7 @@ p {
 footer,
 .btn-outline-primary{
 
-    background: linear-gradient(270deg, #9f9f9a 0%, #304CD6 100%);
+    background: linear-gradient(270deg, #000000 0%, #35F32D 100%);
 }
 
 .media-links{
